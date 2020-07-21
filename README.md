@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) 9.4, [TailwindCSS](https://tailwindcss.com/) 1.5, and [TypeScript](https://www.typescriptlang.org/docs/home.html) 3.9 starter template
 
 ## Getting Started
 
