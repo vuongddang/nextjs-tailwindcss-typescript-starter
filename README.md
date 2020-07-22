@@ -16,8 +16,13 @@ yarn create next-app --example "https://github.com/vuongddang/nextjs-tailwindcss
 You can generate a new repository with the same directory structure and files by click `Use this template` button in the upper right or [click here](https://github.com/vuongddang/nextjs-tailwindcss-typescript-starter/generate).
 
 ## Getting Started
-
-First, run the development server:
+Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+Run the development server:
 
 ```bash
 npm run dev
