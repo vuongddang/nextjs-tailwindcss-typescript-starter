@@ -1,5 +1,5 @@
 # Next.js TailwindCSS Typescript Starter
-This is a [Next.js](https://nextjs.org/) 9.4, [TailwindCSS](https://tailwindcss.com/) 1.5, and [TypeScript](https://www.typescriptlang.org/docs/home.html) 3.9 starter template
+This is a [Next.js](https://nextjs.org/) 9.5, [TailwindCSS](https://tailwindcss.com/) 1.7, and [TypeScript](https://www.typescriptlang.org/docs/home.html) 3.9 starter template
 
 ## How to use this template
 Here're a few ways to create your new project using this template.
