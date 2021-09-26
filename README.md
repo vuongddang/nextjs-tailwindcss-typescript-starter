@@ -8,9 +8,9 @@ Here're a few ways to create your new project using this template.
 ### Using `create-next-app`
 Create a new next.js app from the template using [create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
 ```
-npx create-next-app --example "https://github.com/vuongddang/nextjs-tailwindcss-typescript-starter/tree/master"
+npx create-next-app --example "https://github.com/vuongddang/nextjs-tailwindcss-typescript-starter/tree/main"
 # or
-yarn create next-app --example "https://github.com/vuongddang/nextjs-tailwindcss-typescript-starter/tree/master"
+yarn create next-app --example "https://github.com/vuongddang/nextjs-tailwindcss-typescript-starter/tree/main"
 ```
 
 ### Create new repository from github [template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
