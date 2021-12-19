@@ -1,5 +1,5 @@
 # Next.js TailwindCSS Typescript Starter
-This is a [Next.js](https://nextjs.org/) 12.x, [TailwindCSS](https://tailwindcss.com/) 2.x, and [TypeScript](https://www.typescriptlang.org/docs/home.html) 4.x starter template
+This is a [Next.js](https://nextjs.org/) 12.x, [TailwindCSS](https://tailwindcss.com/) 3.x, and [TypeScript](https://www.typescriptlang.org/docs/home.html) 4.x starter template
 
 For more details, see my blog post. [Nextjs TailwindCSS Typescript Starter](https://dev.to/vuongddang/nextjs-tailwindcss-typescript-starter-1c2m)
 
